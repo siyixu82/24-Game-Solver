@@ -9,4 +9,5 @@ For example, for the card with the numbers 4, 7, 8, 8, a possible solution is ( 
 If you want to read more about 24 Game: https://en.wikipedia.org/wiki/24_Game
 
 # Example
-The program will prompt the user enter four number and output all the possible solutions.
+The program will prompt the user enter four number and output all the possible solutions. For example:
+<img width="284" alt="24Example" src="https://user-images.githubusercontent.com/46532194/64560253-28dfaf00-d316-11e9-8525-33be3eea3cc2.png">
